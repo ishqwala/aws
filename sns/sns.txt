@@ -1,3 +1,6 @@
+it is about SNS  
+
+
 SNS - simple notification service
 
 SNS IS USED TO NOTIFY THE SUBSCRIBERS 
